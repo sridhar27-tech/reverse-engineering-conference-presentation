@@ -1,0 +1,32 @@
+torch>=2.3.0
+transformers>=4.41.0
+zenml>=0.50.0
+mlflow>=2.12.0
+dvc>=3.0.0
+shap>=0.45.0
+captum>=0.7.0
+onnxruntime>=1.18.0
+tensorflow>=2.16.0  # for TFLite
+flutter # placeholder, use for mobile
+streamlit>=1.35.0
+gradio>=4.0.0
+dowel # for causal
+doit # wait, dowhy
+dowhy>=0.11.0
+bertopic
+umap-learn
+hdbscan
+great-expectations
+evidently>=0.4.0
+optuna
+accelerate
+# Privacy
+opacus
+# Safety
+textattack
+# Deployment
+fastapi
+uvicorn
+electron  # dev
+# etc.
+pandas numpy scikit-learn matplotlib seaborn

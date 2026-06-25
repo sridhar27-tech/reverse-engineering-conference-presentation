@@ -1,0 +1,13 @@
+model:
+  name: "mental-roberta-large"
+  concepts: 32
+  quantization: int8
+  platforms:
+    - android
+    - ios
+    - desktop
+xai:
+  methods: ["SHAP", "IG", "TCAV", "Counterfactual"]
+privacy:
+  differential_privacy: true
+  on_device: true
