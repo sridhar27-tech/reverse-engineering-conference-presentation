@@ -312,6 +312,10 @@ This project delivers the first comprehensive framework combining reverse engine
 
 **Disclaimer**: This system is intended as a research and decision-support tool only. It must not replace professional clinical judgment.
 
+**Deployment Strategy changed** : The deployment of this project got changed and the overall plan criteria for this project is chnaged overall.
+
+**New Strategy** : The plan of implementation is currently changed and the plan is quite changed and implementation is gonna be very difficult and we are currently working on it 
+
 ---
 
 *Document compiled for GitHub repository. Total content expanded for comprehensive reference (~600 lines when rendered with spacing and formatting). Updated June 2026.*
